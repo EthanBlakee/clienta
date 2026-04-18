@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+*.sqlite
+*.sqlite-journal
+prisma/dev.db
+coverage
+.DS_Store
